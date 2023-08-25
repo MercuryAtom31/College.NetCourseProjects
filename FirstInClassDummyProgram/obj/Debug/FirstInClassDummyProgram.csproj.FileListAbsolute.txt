@@ -1,0 +1,7 @@
+C:\Users\hiche\Desktop\Udemy\Windows Presentation Foundation Masterclass\In-Class Code\FirstInClassDummyProgram\FirstInClassDummyProgram\bin\Debug\FirstInClassDummyProgram.exe.config
+C:\Users\hiche\Desktop\Udemy\Windows Presentation Foundation Masterclass\In-Class Code\FirstInClassDummyProgram\FirstInClassDummyProgram\bin\Debug\FirstInClassDummyProgram.exe
+C:\Users\hiche\Desktop\Udemy\Windows Presentation Foundation Masterclass\In-Class Code\FirstInClassDummyProgram\FirstInClassDummyProgram\bin\Debug\FirstInClassDummyProgram.pdb
+C:\Users\hiche\Desktop\Udemy\Windows Presentation Foundation Masterclass\In-Class Code\FirstInClassDummyProgram\FirstInClassDummyProgram\obj\Debug\FirstInClassDummyProgram.csproj.AssemblyReference.cache
+C:\Users\hiche\Desktop\Udemy\Windows Presentation Foundation Masterclass\In-Class Code\FirstInClassDummyProgram\FirstInClassDummyProgram\obj\Debug\FirstInClassDummyProgram.csproj.CoreCompileInputs.cache
+C:\Users\hiche\Desktop\Udemy\Windows Presentation Foundation Masterclass\In-Class Code\FirstInClassDummyProgram\FirstInClassDummyProgram\obj\Debug\FirstInClassDummyProgram.exe
+C:\Users\hiche\Desktop\Udemy\Windows Presentation Foundation Masterclass\In-Class Code\FirstInClassDummyProgram\FirstInClassDummyProgram\obj\Debug\FirstInClassDummyProgram.pdb
